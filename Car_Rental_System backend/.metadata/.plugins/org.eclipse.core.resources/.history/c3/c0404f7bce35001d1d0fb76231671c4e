@@ -1,0 +1,5 @@
+package com.ecity.entities;
+import lombok.gettet;
+public class admin {
+
+}

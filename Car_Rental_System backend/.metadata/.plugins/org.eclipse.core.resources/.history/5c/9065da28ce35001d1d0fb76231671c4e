@@ -1,0 +1,9 @@
+package com.ecity.entities;
+
+
+
+@Getter
+public class admin {
+	private String name;
+
+}
